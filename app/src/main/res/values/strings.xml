@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Ohm\'s Law Calculator</string>
+    <string name="txtMainDescription">An cartoon depicting Ohms law</string>
+    <string name="txtWatt">Power (Watts)</string>
+    <string name="txtOhm">Resistance (Ohms)</string>
+    <string name="txtAmp">Current (Amps)</string>
+    <string name="txtVolts">Voltage (Volts)</string>
+    <string name="txtBand1">First Band</string>
+    <string name="txtBand2">Second Band</string>
+    <string name="txtBand3">Third Band (Multiplier)</string>
+    <string name="txtBand4">Fourth Band (Tolerance)</string>
+    <string name="txtOhmDescription">Ohms law Triangle</string>
+    <string name="txtWattDescription">Watts law Triangle</string>
+    <string name="txtResistorDescription">A picture depicting the bands of a resistor</string>
+    <string name="txtInstructions">"Enter Exactly Two (2) values to find the third value. "</string>
+    <string name="txtResistorInstructions">Enter each band color of the Resistor to find its value:</string>
+    <string name="btnCalculate">Calculate Missing Value</string>
+    <string name="txtWattTitle">Watt\'s Law Calculator</string>
+    <string name="txtResistorTitle">Resistor Color Code</string>
+
+    <string-array name="txtBandColor" >
+        <item>Black (0)</item>
+        <item>Brown (1)</item>
+        <item>Red (2)</item>
+        <item>Orange (3)</item>
+        <item>Yellow(4)</item>
+        <item>Green (5)</item>
+        <item>Blue (6)</item>
+        <item>Violet (7)</item>
+        <item>Gray (8)</item>
+        <item>White (9)</item>
+    </string-array>
+
+    <string-array name="txtTolerance" >
+        <item>Silver (10%)</item>
+        <item>Gold (5%)</item>
+        <item>Red (2%)</item>
+        <item>Brown (1%)</item>
+        <item>Green (0.5%)</item>
+        <item>Blue (0.25%)</item>
+        <item>Violet (0.10%)</item>
+        <item>Gray (0.05%)</item>
+    </string-array>
+
+    <string-array name="txtMultiplier" >
+        <item>Silver (0.01)</item>
+        <item>Gold (0.1)</item>
+        <item>Black (1)</item>
+        <item>Brown (10)</item>
+        <item>Red (100)</item>
+        <item>Orange (1K)</item>
+        <item>Yellow(10K)</item>
+        <item>Green (100K)</item>
+        <item>Blue (1M)</item>
+        <item>Violet (10M)</item>
+        <item>Gray (100M)</item>
+        <item>White (1G)</item>
+    </string-array>
+    <string name="btnResistor">Calculate Resistor</string>
+    <string name="btnClear">Clear Form</string>
+
+</resources>
